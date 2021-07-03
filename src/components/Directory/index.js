@@ -19,7 +19,7 @@ const Directory = props => {
           className="item"
           style={{backgroundImage: `url(${Outdoor})`}}
         >
-          <a href="https://google.com">Indoor plants</a>
+          <a href="https://google.com">Outdoor plants</a>
         </div>
       </div>
     </div>
