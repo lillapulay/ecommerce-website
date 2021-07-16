@@ -17,6 +17,7 @@ const Header = props => {
                 <img src={Logo} alt="App logo"/>
               </Link>
             </div>
+            
             <div className="callToActions">
 
               {currentUser && (
